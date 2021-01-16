@@ -9,10 +9,10 @@ define('USER_MANAGER', PROTECTED_DIR.'userManager.php');
 
 define('DB_PORT','3306');
 define('DB_TYPE', 'mysql');
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'op');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'remotemysql.com');
+define('DB_NAME', 'TBEgSpnIuQ');
+define('DB_USER', 'TBEgSpnIuQ');
+define('DB_PASS', 'JpT7xvZ4ra');
 define('DB_CHARSET', 'utf8');
 
 function getConnection(){
