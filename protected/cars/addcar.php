@@ -1,5 +1,5 @@
 <?php if(!isset($_SESSION['permission']) || $_SESSION['permission'] < 1) : ?>
-	<h1>User nem tud hozzáadni telefont!</h1>
+	<h1>User nem tud hozzáadni autót!</h1>
 <?php else : ?>
 
 	<?php
